@@ -1,0 +1,51 @@
+html,
+body {
+  font-size: 20px;
+}
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 100px;
+}
+h6 {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+#single {
+  color: green;
+}
+#double {
+  color: red;
+}
+.container {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 100px;
+}
+#input_container {
+  border: 10%;
+  font-size: 30px;
+  border-radius: 10px;
+}
+#button_container {
+  font-size: 30px;
+  border-radius: 10px;
+  border: 30%;
+}
+#input_container:hover {
+  border-color: red;
+}
+#button_container:hover {
+  border-color: green;
+  cursor: pointer;
+  color: green;
+}
+.paragraph-styling {
+  margin: 10px;
+  cursor: pointer;
+  font-size: 40px;
+}
